@@ -71,5 +71,3 @@ public class RectangleInfo
         System.out.println("The length of the diagonal is " + diagonal +  " feet.");
     }
 }
-
-
