@@ -70,4 +70,5 @@ public class RectangleInfo
         diagonal = Math.sqrt(width * width + length * length);
         System.out.println("The length of the diagonal is " + diagonal +  " feet.");
     }
+
 }

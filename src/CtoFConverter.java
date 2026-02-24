@@ -31,4 +31,5 @@ public class CtoFConverter
         degF = (degC * 9/5) + 32;
         System.out.println(degC + " degrees Celsius is " + degF + " degrees Fahrenheit.");
     }
+
 }

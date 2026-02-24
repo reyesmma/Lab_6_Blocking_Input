@@ -93,4 +93,5 @@ public class FuelCosts
         totalDistance = tankSize * mpg;
         System.out.println("The car can go " + totalDistance +  " miles with a full tank of gas.");
     }
+
 }
